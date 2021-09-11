@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <title> Kyambogo Pa Yesu Rugby FC</title>
+<style type:"text/css"/>
+body {background:aqua}
+button {background: navy; color:orange; border: none;display:block;
+font family: times new roman;
+font size: 50px;
+font weight: very bold;
+margin:5px;
+padding: 10px 15px;
+border-radius: 10px;}
+#b1:hover {background: pink;color: blue;}
+#b2:hover {background: pink;color: blue;}
+#b3:hover {background: pink;color: blue;}
+#b4:hover {background: pink;color: blue;}
+#b5:hover {background: pink;color: blue;}
+</style>
+  </head>
+  <body>
+    <h1>Kyambogo Rugby FC</h1>
+<img src="me.jpg"/>
+<br/>
+<button id=b1>PLAYERS</button>
+<button id=b2>FIXTURES/SCORES</button>
+<button id=b3>NEWS</button>
+<button id=b4>COMPETITION</button>
+<button id=b5>MANAGEMENT</button>
+<hr/>
+ <p>I saw this and gained interest in it and i want to learn it as soon as possible</p>
+  </body>
+
+</html>
+<!--
+Visual Code Mobile
+Developed By Manish Nirmal
+App Available on Play Store :-
+https://play.google.com/store/apps/details?id=lk.visual.code.mobile
+YouTube :-
+https://youtube.com/ManishNirmal
+-->
